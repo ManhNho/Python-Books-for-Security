@@ -4,4 +4,4 @@ The repository contain some books about python with Information security, which 
 ## License
 This repository will never have a license.
 ## Feedback / comments
-Don not hesitate to reach me via [Issues](https://github.com/ManhNho/Python-Books-for-Security/issues) or my email address!
+Don't hesitate to reach me via [Issues](https://github.com/ManhNho/Python-Books-for-Security/issues) or my email address!
